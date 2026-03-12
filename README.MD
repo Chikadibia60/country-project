@@ -1,8 +1,4 @@
-
-
-
-
-\# Life Expectancy Prediction using Machine Learning
+s# Life Expectancy Prediction using Machine Learning
 
 
 
@@ -393,8 +389,4 @@ Potential improvements include:
 
 
 Machine Learning Project
-
-
-
-
 
